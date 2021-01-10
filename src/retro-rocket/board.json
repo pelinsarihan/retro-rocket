@@ -1,0 +1,63 @@
+{
+    "createBoard": [
+        {"id": 1, "title": "Went Well, To Improve, Action Items"},
+        {"id": 2, "title": "Happy, Sad, Mad"},
+        {"id": 3, "title": "Start, Stop, Continue"}
+    ],
+    "boards": [
+        {
+            "id": 1,
+            "title": "Went Well, To Improve, Action Items",
+            "columns": [
+                {
+                    "id": 1,
+                    "header": "Went Well"
+                },
+                {
+                    "id": 2,
+                    "header": "To Improve"
+                },
+                {
+                    "id": 3,
+                    "header": "Action Items"
+                }
+            ] 
+        },
+        {
+            "id": 2,
+            "title": "Happy, Sad, Mad",
+            "columns": [
+                {
+                    "id": 1,
+                    "header": "Happy"
+                },
+                {
+                    "id": 2,
+                    "header": "Sad"
+                },
+                {
+                    "id": 3,
+                    "header": "Mad"
+                }
+            ] 
+        },
+        {
+            "id": 3,
+            "title": "Start, Stop, Continue",
+            "columns": [
+                {
+                    "id": 1,
+                    "header": "Start"
+                },
+                {
+                    "id": 2,
+                    "header": "Stop"
+                },
+                {
+                    "id": 3,
+                    "header": "Continue"
+                }
+            ] 
+        }
+    ]
+}

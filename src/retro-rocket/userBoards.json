@@ -1,0 +1,65 @@
+{
+    "userBoards": [
+        {
+            "id": 1,
+            "board_id": 1,
+            "boardName": "Rocket Board V1",
+            "enable": true,
+            "data": [
+                {
+                    "columnId": 1,
+                    "value": "Test Data-1",
+                    "enable": true
+                },
+                {
+                    "columnId": 1,
+                    "value": "Test Data-1",
+                    "enable": true
+                },
+                {
+                    "columnId": 2,
+                    "value": "Test Data-2",
+                    "enable": true
+                },
+                {
+                    "columnId": 3,
+                    "value": "Test Data-3",
+                    "enable": false
+                },
+                {
+                    "columnId": 3,
+                    "value": "Test Data-3",
+                    "enable": true
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "board_id": 3,
+            "boardName": "Rocket Board V2",
+            "enable": true,
+            "data": [
+                {
+                    "columnId": 1,
+                    "value": "Test Data-1",
+                    "enable": false
+                },
+                {
+                    "columnId": 1,
+                    "value": "Test Data-1",
+                    "enable": true
+                },
+                {
+                    "columnId": 2,
+                    "value": "Test Data-2",
+                    "enable": true
+                },
+                {
+                    "columnId": 3,
+                    "value": "Test Data-3",
+                    "enable": false
+                }
+            ]
+        }
+    ]
+}
